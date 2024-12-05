@@ -41,7 +41,7 @@ export default function SnippetCreatePage(){
                 <label className="w-12" htmlFor="code">Code</label>
                 <textarea 
                     name="code"
-                    className="border rounded p-2 w-full"
+                    className="border rounded p-2 w-full h-40"
                     id="code"
                 />
             </div>
